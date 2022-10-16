@@ -1,0 +1,5 @@
+1. babel js：can convert html code to js code
+
+2. The customer component should start with capital latter
+
+3. 
